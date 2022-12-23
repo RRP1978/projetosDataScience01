@@ -1,4 +1,4 @@
-from operator import index
+# from operator import index
 import sqlite3
 import pandas as pd
 
